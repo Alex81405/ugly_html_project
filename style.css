@@ -1,0 +1,48 @@
+h1 {
+	text-align: center;
+    color: rgb(255, 208, 0);
+    background-color: rgb(88, 54, 233);;
+    font-family: Courier;
+    border: 10px solid black;
+}
+
+img {
+    width: 250px;
+}
+
+body {
+	font-size: 15px;
+}
+
+div {
+	background-color: black;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: left;
+    font-family: Courier;
+}
+
+ul {
+	color: white;
+    text-align: left;
+    font-family: Courier;
+}
+
+p {
+    color: white;
+    text-align: left;
+}
+
+div p {
+    font-size: 15px;
+    font-family: Courier;
+    font-weight: bold;
+}
+
+h3 {
+    color: white;
+    text-align: left;
+}
