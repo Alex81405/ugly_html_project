@@ -10,16 +10,6 @@ img {
     margin-right: auto;
 }
 
-h1 {
-    background-color: #2f549b;
-    color: #ffcb04;
-    text-align: center;
-}
-
-h2 {
-    font-size: 20px;
-}
-
 #starters_image_div_img {
     outline: 5px solid #2f549b;
     outline-offset: 5px;
@@ -33,6 +23,16 @@ h2 {
 .pokemon_images {
     width: 150px;
     margin-bottom: 20px
+}
+
+h1 {
+    background-color: #2f549b;
+    color: #ffcb04;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
 }
 
 #bulbasaur_container,
